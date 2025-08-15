@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FX Mini Studio - Week 2 Lab Submission
 
 ## Overview
@@ -32,8 +31,4 @@ FX Mini Studio is a JavaFX application developed for Lab 1, showcasing various U
 
 ## Author
 Sukhanpreet Singh, Student ID: S00392623
-
-
-=======
->>>>>>> 65ab7e482b50710c9c0224d6a0930896d2e25fe6
 
